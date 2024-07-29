@@ -1,5 +1,3 @@
-# SplitWise
-
 ## API Endpoints
 - login/
     - **POST** =>  Login user
@@ -15,7 +13,8 @@
 
 ## Start The Server
 ```bash
-source env/bin/activate
+cd splitwise-main
+env/Script/activate
 python -m pip install -r requirments.txt
 cd splitwise
 python manage.py runserver

@@ -13,7 +13,7 @@
 
 ## Start The Server
 ```bash
-cd splitwise-main
+cd Covin-Assigment-Django
 env/Script/activate
 python -m pip install -r requirments.txt
 cd splitwise
